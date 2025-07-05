@@ -43,3 +43,5 @@ Visualization Dashboard: A dashboard created using libraries like Dash or Stream
 This approach not only helps in understanding weather patterns but also enhances your skills in API integration and data visualization.
 
 # output 
+![Image](https://github.com/user-attachments/assets/2b60e7ce-d0bf-45a9-80d4-305a32d2beb3)
+![Image](https://github.com/user-attachments/assets/2e156f44-58ed-4f7d-b4bd-4e99cce2a1ea)
